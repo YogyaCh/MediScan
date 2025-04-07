@@ -1,0 +1,16 @@
+# Core ML & Streamlit UI
+streamlit==1.32.2
+openai==1.17.0
+
+# PDF and image handling
+pdf2image==1.16.3
+Pillow==10.2.0
+
+# OCR
+pytesseract==0.3.10
+
+# Environment variable loading
+python-dotenv==1.0.1
+
+# Utility
+requests==2.31.0
