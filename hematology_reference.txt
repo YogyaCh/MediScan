@@ -1,0 +1,13 @@
+Hemoglobin (Hb):
+  Normal: 12.0–15.0 g/dL (female)
+  Low: Suggests anemia
+  High: Suggests dehydration or polycythemia
+
+MCV (Mean Corpuscular Volume):
+  Normal: 83–101 fl
+  High: Macrocytic anemia (e.g., B12 or folate deficiency)
+  Low: Microcytic anemia (e.g., iron deficiency)
+
+Neutrophils:
+  High: Possible infection or inflammation
+  Low: May indicate bone marrow issue or immune suppression
