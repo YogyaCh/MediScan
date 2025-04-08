@@ -1,6 +1,7 @@
 # MediScan AI – Medical Lab Report Analyzer
 
 MediScan is a lightweight GenAI-powered tool that processes unstructured medical lab reports in PDF format, extracts key biomarkers using OCR and LLMs, and enables users to ask questions about the report — all through a clean, interactive web UI.
+You can check it out on: https://cliniq.streamlit.app
 
 ---
 
